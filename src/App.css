@@ -49,4 +49,5 @@
   flex-wrap: wrap;
   background-color: #f6f7f8;
   padding: 40px 100px;
+  justify-content: space-around;
 }
